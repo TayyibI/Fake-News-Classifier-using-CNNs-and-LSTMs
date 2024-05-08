@@ -26,3 +26,23 @@ The optimizer used is RMSprop with a learning rate of 0.001.
 
 ## Results
 The model achieves a training accuracy of approximately 97.61% and a validation accuracy of about 95.55% after five epochs, indicating strong predictive performance on the training dataset. However, when evaluated on a new set of data, the model shows a significant drop in performance, with an accuracy of only 46.73%. This discrepancy suggests issues such as overfitting to the training data or a difference in the distribution between the training and new datasets.
+
+## Architecture
+
+<img width="221" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/7d66841c-e46c-4b86-8349-db59ab7c4313">
+
+<img width="231" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/c36b41b7-41e8-4826-9db8-17ce5bd7a518">
+
+## Trainig
+
+<img width="418" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/e9aebdad-cee2-4808-b2f1-b0ade00a7e2c">
+
+## Model Accuracy
+
+<img width="231" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1f1b4218-e58e-4ad2-a0e3-de9becb7e691">
+
+## Model Loss
+
+<img width="236" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1dd96398-7d10-4ef1-a2f7-12c55b3c8b19">
+
+

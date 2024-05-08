@@ -41,10 +41,10 @@ The model achieves a training accuracy of approximately 97.61% and a validation 
 
 ## Model Accuracy
 
-<img width="231" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1f1b4218-e58e-4ad2-a0e3-de9becb7e691">
+<img width="418" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1f1b4218-e58e-4ad2-a0e3-de9becb7e691">
 
 ## Model Loss
 
-<img width="236" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1dd96398-7d10-4ef1-a2f7-12c55b3c8b19">
+<img width="418" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1dd96398-7d10-4ef1-a2f7-12c55b3c8b19">
 
 

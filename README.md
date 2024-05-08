@@ -1,4 +1,4 @@
-<img width="698" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/0a1725d1-bdc8-41e0-a6d1-e811c3d75465"># Fake-News-Classifier-using-CNNs-and-LSTMs
+# Fake-News-Classifier-using-CNNs-and-LSTMs
 by
 Tayyib Ismail 20k-0461
 Farhan Siddiki 20k-0439

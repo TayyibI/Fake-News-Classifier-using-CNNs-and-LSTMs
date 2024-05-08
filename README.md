@@ -1,5 +1,10 @@
 # Fake-News-Classifier-using-CNNs-and-LSTMs
-The objective of this project is to develop and evaluate a neural network model capable of accurately distinguishing between fake and real news articles. By leveraging natural language processing (NLP) techniques and deep learning architectures, the goal is to create a robust classifier that can assist in mitigating the spread of misinformation.
+by
+Tayyib Ismail 20k-0461
+Farhan Siddiki 20k-0439
+Muaaz Alam 20k-0212
+
+This project aims to develop and evaluate a neural network model capable of accurately distinguishing between fake and real news articles. By leveraging natural language processing (NLP) techniques and deep learning architectures, the goal is to create a robust classifier that can assist in mitigating the spread of misinformation.
 
 https://www.kaggle.com/code/tayyibi/2nd-fake-news-classifier
 

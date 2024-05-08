@@ -4,18 +4,22 @@ The objective of this project is to develop and evaluate a neural network model 
 
 ## Methodology
 Data Collection: The datasets used include WELFake_Dataset.csv, Fake.csv, and True.csv. These contain labeled news articles where labels indicate the authenticity of the article.
+
 Preprocessing:
 Textual data is cleaned by removing punctuation, numbers, and stopwords.
 Texts are converted to lowercase to maintain consistency.
 Lemmatization is applied to reduce words to their base or root form.
+
 Feature Engineering:
 Texts are converted into sequences using the Tokenizer class in Keras, which also restricts the vocabulary to the top 10,000 words to avoid overfitting.
 Sequences are padded to ensure that they all share the same length, a requirement for training deep learning models.
+
 Model Building:
 An embedding layer is used to transform text into meaningful and trainable vectors. It utilizes pre-trained GloVe embeddings.
 The model includes convolutional and LSTM layers to capture both local features of the text and long-range dependencies.
 Dropout layers are included to prevent overfitting.
 The output layer uses a sigmoid activation function to classify the input as fake or real.
+
 Training:
 The model is trained on a subset of the data, with a validation split to monitor performance and combat overfitting.
 The optimizer used is RMSprop with a learning rate of 0.001.

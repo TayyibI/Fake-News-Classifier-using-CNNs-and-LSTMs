@@ -6,6 +6,9 @@ Muaaz Alam 20k-0212
 
 This project aims to develop and evaluate a neural network model capable of accurately distinguishing between fake and real news articles. By leveraging natural language processing (NLP) techniques and deep learning architectures, the goal is to create a robust classifier that can assist in mitigating the spread of misinformation.
 
+![image](https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/675dbf0e-c899-483d-acad-78db681bfe2d)
+
+
 Model 1(Training Data: https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset):
 https://www.kaggle.com/code/i200439/notebook9fe2e56786?scriptVersionId=176525229
 

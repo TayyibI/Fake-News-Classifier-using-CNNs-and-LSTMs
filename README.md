@@ -72,10 +72,18 @@ The optimizer used is RMSprop with a learning rate of 0.001.
 ![image](https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/d15c9bc4-ec64-46b9-abf9-a113a40ba5d3)
 
 ## Model Accuracy
+### Model 1:
+![image](https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/eb5137a8-309f-4468-88db-947d308bcb97)
+
+
 ### Model 2: 
 <img width="418" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1f1b4218-e58e-4ad2-a0e3-de9becb7e691">
 
 ## Model Loss
+### Model 1:
+![image](https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/5935078c-07a7-4125-ac9a-b7215aab8338)
+
+
 ### Model 2:
 <img width="418" alt="image" src="https://github.com/TayyibI/Fake-News-Classifier-using-CNNs-and-LSTMs/assets/94107654/1dd96398-7d10-4ef1-a2f7-12c55b3c8b19">
 
